@@ -1,0 +1,12 @@
+GAMEDEF
+nolimit
+numplayers=2
+numrounds=4000
+blind=50 100 0
+firstplayer=3 1 1 1
+numsuits=4
+numranks=13
+numholecards=2
+numboardcards=0 3 1 1
+stack=20000 20000 20000
+END GAMEDEF
